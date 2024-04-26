@@ -1,4 +1,4 @@
-# Project of Tools and Methods
+# Practice for the Tools and Methods
 
 Topic: Level of popularity of Game of Thrones in different countries and areas
 
