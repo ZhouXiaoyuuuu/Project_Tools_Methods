@@ -1,4 +1,4 @@
-# Project_Tools_Methods
+# Project of Tools and Methods
 
 Topic: Level of popularity of Game of Thrones in different countries and areas
 
